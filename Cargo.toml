@@ -99,6 +99,9 @@ handlebars = "1.1.0"
 # Add support for Timestamp type
 rmp = { git = 'https://github.com/dani-garcia/msgpack-rust' }
 
+# Fix broken certs
+u2f = { git = 'https://github.com/dani-garcia/u2f-rs' }
+
 # Use new native_tls version 0.2
 lettre = { git = 'https://github.com/lettre/lettre', rev = 'c988b1760ad81' }
 lettre_email = { git = 'https://github.com/lettre/lettre', rev = 'c988b1760ad81' }
