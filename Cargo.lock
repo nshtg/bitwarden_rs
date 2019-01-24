@@ -2389,7 +2389,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 [[package]]
 name = "u2f"
 version = "0.1.4"
-source = "git+https://github.com/dani-garcia/u2f-rs#eae33775e5270106823cdc7a11d219ed7e320fba"
+source = "git+https://github.com/dani-garcia/u2f-rs#8015dfe36c678ab0c3b449980311b126db66f20a"
 dependencies = [
  "base64 0.9.3 (registry+https://github.com/rust-lang/crates.io-index)",
  "byteorder 1.3.1 (registry+https://github.com/rust-lang/crates.io-index)",
